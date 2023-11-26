@@ -1,0 +1,31 @@
+1. Why is it called a pseudo-class?
+
+Pseudo-classes are used to select elements based on their state, such as
+when the element is hovered over, when it has focus, or when it is the first or
+last child of its parent element.
+
+And it is so called because the term "pseudo-class" literally means "false class." It's called "pseudo" because it's not a real class that you define in your HTML markup, but rather a dynamic state or condition that a particular element can be in.
+
+
+2. What are gradients in CSS?
+
+Gradients in CSS are a way to create smooth transitions between two or more colors. 
+Instead of using solid colors, you can use gradients to achieve more dynamic and visually appealing backgrounds or borders. CSS gradients can be linear or radial.
+
+It lets you display smooth transitions between two or more specified colors.
+
+CSS defines three types of gradients:
+
+Linear Gradients 
+Radial Gradients 
+Conic Gradients 
+
+3. What are different types of transitions in CSS?
+
+Here are types of transitions in CSS :
+
+Opacity transition 
+Color transition
+Transform transition
+Width/Height Transition 
+All Transition
